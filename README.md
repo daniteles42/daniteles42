@@ -2,7 +2,7 @@
 - Desenvolvedor Web Júnior / Analista e Desenvoledor de Sistemas;<br>
 - Buscando novas oportunidades em projetos e empresas;<br>
 - 3 anos de experiência, em busca de evolução;<br>
-- Música / Games / Desenvolvimento / Esportes
+- Música / Games / Desenvolvimento / Esportes.
 
 
 ## 🌐 Redes Sociais:
