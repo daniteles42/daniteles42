@@ -1,7 +1,7 @@
 # 💫 Quem sou eu?
 - Desenvolvedor Web e Embarcados Júnior / Analista e Desenvoledor de Sistemas;<br>
 - Realizando cada vez mais novas oportunidades em projetos;<br>
-- Diversos Sites, LP´s desenvolvidas, disponível para freelancer e projetos contínuos;<br>
+- Diversos Sites e LP´s desenvolvidas, disponível para freelancer e projetos contínuos;<br>
 - 5 anos de experiência, em busca de evolução;<br>
 - Música / Games / Desenvolvimento / Futebol.
 
